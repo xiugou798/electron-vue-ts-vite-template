@@ -1,0 +1,4 @@
+# 使用国内的镜像地址下载electron
+ELECTRON_MIRROR = "https://npmmirror.com/mirrors/electron/"
+# 使用国内的镜像地址下载electron-builder
+ELECTRON_BUILDER_BINARIES_MIRROR=https://npmmirror.com/mirrors/electron-builder-binaries/
